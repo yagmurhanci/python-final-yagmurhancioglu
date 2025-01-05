@@ -85,7 +85,19 @@ print(f"Yeni shapefile başarıyla kaydedildi: {output_path}")
 ```
 
 ## Çıktılar
+1. Adım:
+![1](https://github.com/user-attachments/assets/8b294455-24bf-4720-8606-66681a235317)
+2. Adım:
+![2](https://github.com/user-attachments/assets/fce44907-8a3b-447f-a645-bd1402176f21)
+3. Adım:
+![3](https://github.com/user-attachments/assets/8e903f26-0c6a-4351-8570-7cd494958749)
+4. Adım:
+![4](https://github.com/user-attachments/assets/db3b6eb9-d9df-4f54-ad6a-556b860cc976)
+5. Adım:
+![5](https://github.com/user-attachments/assets/d7976d2e-61dd-4277-bfa1-a3392db5b9ea)
 
+
+SONUÇ:
 ![turkey_map_populated_places](https://github.com/user-attachments/assets/d1898f81-8551-4991-a19a-e2472a641025)
 
 
